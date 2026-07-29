@@ -1,15 +1,4 @@
-header {
+header, nav, main, footer {
         border: black 2px solid;
 }
 
-nav {
-        border: black 2px solid;
-}
-
-main {
-        border: black 2px solid;
-}
-
-footer {
-        border: black 2px solid;
-}   
